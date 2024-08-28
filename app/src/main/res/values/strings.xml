@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="introduce">-Hơn 10.000 học liệu số,giáo trình, sách tham khảo chất lượng cao và chuyên sâu của 12 đơn vị đào tạo phục vụ hơn 20.000 bạn đọc DHGTVT</string>
+    <string name="introduce1">-Nội dung phong phú, đa dang, hấp dẫn, bao gồm: Sách Hot phản ánh mọi chủ đề nóng hổi của cuộc sống, phương pháp học tập - nghiên cứu -sáng tạo - cách viết, Văn học kinh điển Việt Nam và nước ngoài, Bách khoa thư bao phủ mọi tri thức của nhân loại...</string>
+</resources>
